@@ -53,7 +53,7 @@
         "emitterEvent": "testPass",
         "name": "Then Click on \"+\" button to save it",
         "category": "Pix4d flight plan: Create a flight plan",
-        "durationMillis": 0,
+        "durationMillis": 1,
         "sourceLocation": {
           "filePath": "C:\\Users\\lucia\\Documents\\Protractor\\protractor-cucumber-example-master\\features\\flightplan.feature",
           "line": 10,
@@ -61,6 +61,6 @@
         }
       }
     ],
-    "duration": 3
+    "duration": 4
   }
 ]
