@@ -1,0 +1,66 @@
+[
+  {
+    "description": "Create a flight plan",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "events": [
+      {
+        "emitterEvent": "testPass",
+        "name": "Given The stupendous plan is open",
+        "category": "Pix4d flight plan: Create a flight plan",
+        "durationMillis": 1,
+        "sourceLocation": {
+          "filePath": "C:\\Users\\lucia\\Documents\\Protractor\\protractor-cucumber-example-master\\features\\flightplan.feature",
+          "line": 6,
+          "column": 1
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "When Click on \"+\" to insert a new flight plan",
+        "category": "Pix4d flight plan: Create a flight plan",
+        "durationMillis": 1,
+        "sourceLocation": {
+          "filePath": "C:\\Users\\lucia\\Documents\\Protractor\\protractor-cucumber-example-master\\features\\flightplan.feature",
+          "line": 7,
+          "column": 1
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "And Click on the location on map to start the flight plan",
+        "category": "Pix4d flight plan: Create a flight plan",
+        "durationMillis": 0,
+        "sourceLocation": {
+          "filePath": "C:\\Users\\lucia\\Documents\\Protractor\\protractor-cucumber-example-master\\features\\flightplan.feature",
+          "line": 8,
+          "column": 1
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then Click on \"+\" button to save it",
+        "category": "Pix4d flight plan: Create a flight plan",
+        "durationMillis": 0,
+        "sourceLocation": {
+          "filePath": "C:\\Users\\lucia\\Documents\\Protractor\\protractor-cucumber-example-master\\features\\flightplan.feature",
+          "line": 10,
+          "column": 1
+        }
+      }
+    ],
+    "duration": 2
+  }
+]

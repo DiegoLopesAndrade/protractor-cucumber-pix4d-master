@@ -16,6 +16,8 @@
     "protractor": "protractor protractor.conf.js"
   },
   "dependencies": {
-    "cucumberjs-allure-reporter": "^1.0.3"
+    "cucumberjs-allure-reporter": "^1.0.3",
+    "jasmine": "^3.6.1",
+    "jasmine-allure-reporter": "^1.0.2"
   }
 }
