@@ -20,7 +20,7 @@
         "emitterEvent": "testPass",
         "name": "Given The stupendous plan is open",
         "category": "Pix4d flight plan: Create a flight plan",
-        "durationMillis": 1,
+        "durationMillis": 2,
         "sourceLocation": {
           "filePath": "C:\\Users\\lucia\\Documents\\Protractor\\protractor-cucumber-example-master\\features\\flightplan.feature",
           "line": 6,
@@ -61,6 +61,6 @@
         }
       }
     ],
-    "duration": 2
+    "duration": 3
   }
 ]

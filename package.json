@@ -18,6 +18,7 @@
   "dependencies": {
     "cucumberjs-allure-reporter": "^1.0.3",
     "jasmine": "^3.6.1",
-    "jasmine-allure-reporter": "^1.0.2"
+    "jasmine-allure-reporter": "^1.0.2",
+    "protractor-html-reporter-2": "^1.0.4"
   }
 }
