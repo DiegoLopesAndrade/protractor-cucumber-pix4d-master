@@ -1,5 +1,5 @@
 # protractor-cucumber-example
-Example project to create a flight plan for the Pix4D.
+Example project to create a flight plan.
 Protractor with Cucumber and Page Objects.
 
 ## Getting Started
